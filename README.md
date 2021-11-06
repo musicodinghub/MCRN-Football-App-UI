@@ -6,4 +6,4 @@ On the Football App #UI has two pages one for the discover page which has a list
 ### Preview
 ![intro](intro.gif)
 
-[Watch it on Youtube](https://youtu.be/lojdbysua9u)
+[Watch it on Youtube](https://youtu.be/LOJdbySUA9U)
